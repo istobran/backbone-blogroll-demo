@@ -1,0 +1,15 @@
+{
+  "name": "backbone_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  },
+  "scripts": {
+    "dev": "http-server -p 9000"
+  },
+  "author": "BangZ",
+  "license": "ISC"
+}
