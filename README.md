@@ -2,9 +2,13 @@
 ============================================
 
 ### Install dependencies
-> bower install
-> npm install
+```Shell
+bower install
+npm install
+```
 
 
 ### Run Project
-> npm run dev
+```Shell
+npm run dev
+```
