@@ -1,5 +1,5 @@
 # backbone-blogroll-demo
-============================================
+
 
 ### Install dependencies
 ```Shell
